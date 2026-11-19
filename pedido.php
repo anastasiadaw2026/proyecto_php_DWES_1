@@ -2,8 +2,10 @@
 <?php include 'menu.php'; ?>
 
 <?php 
+    // inicializar muy bien / y precio en enteros7
+    // los precios del fichero estan en float y si lo multiplico por 1000 me saca un float y hay que castearlo
     $nombre = '';
-    $precio = 0.0;
+    $precio = 0;
     $imagen = '';
     $ofertas = '';
 ?>
@@ -22,6 +24,7 @@
         </tr>
         <!-- ejemplo de fila "generada" -->
         <tr>
+            <!-- son más campos que aparecen el csv -->
             <td><?php echo $nombre; ?></td>
             <td><?php echo $precio; ?></td>
             <td><img src= <?php echo $imagen; ?> /></td>

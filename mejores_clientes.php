@@ -2,6 +2,8 @@
 <?php include 'menu.php'; ?>
 
 <?php 
+// todo esto se coge de arrays de ficheros
+// cleinte clave y gastos y pedidos(num_pedidos) como valores
     $cliente = '';
     $gasto = 0.0;
     $pedidos = 1;

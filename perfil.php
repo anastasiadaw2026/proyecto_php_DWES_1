@@ -28,6 +28,8 @@
         </section>
 
         <section id="datos_personales">
+            <!--  en el logi voy a guarda rlos datos de los usuario que son ombre y clave -->
+            <!-- estos datos son de un fichero y se cargan cada ve del perfil utilizanfdo el nombre del usuario, con un json  -->
             <h2>Datos personales</h2>
             <label for="name">Nombre completo </label>
             <input type="text" id="name" value = <?php echo $name; ?> />
@@ -45,6 +47,7 @@
         <section id="avatar">
             <h2>Avatar</h2>
             <input type="radio" id="av1" />
+            <!-- src en un recurso externo, un fichero -->
             <label for=""><img src="https://picsum.photos/id/1020/600/400" alt=""></label>
 
             <input type="radio" id="av1" />

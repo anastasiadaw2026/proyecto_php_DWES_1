@@ -23,6 +23,7 @@
             <th>Ofertas</th>
         </tr>
         <!-- ejemplo de fila "generada" -->
+         <!-- no son echos son printf -->
         <tr>
             <td><?php echo $nombre; ?></td>
             <td><?php echo $precio; ?></td>

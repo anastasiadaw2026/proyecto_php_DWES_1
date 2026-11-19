@@ -1,0 +1,38 @@
+Nigiri	Salmón	1.95	nigiri_salmon.png	
+Nigiri	"Salmón flambeado"	1.95	nigiri_salmon_flambeado.png	
+Nigiri	Atún	2.25	nigiri_atun.png	
+Nigiri	"Atún rojo flambeado"	2.35	nigiri_atun_rojo_flambeado.png	
+Nigiri	Langostino	1.85	nigiri_ebi.png	
+Nigiri	Anguila	2.25	nigiri_anguila.png	
+Maki	Salmón	0.70	maki_salmon.png	
+Maki	Aguacate	0.60	maki_aguacate.png	
+Maki	Langostino	0.75	maki_ebi.png	"gluten, soja, moluscos"
+Maki	Atún	0.70	maki_atun.png	
+Maki	"Atún Picante"	0.75	maki_atun_picante.png	soja
+Maki	"Pepino y Queso"	0.50	maki_pepino_queso.png	lácteos
+Temaki	"Salmón y Aguacate"	4.50	temaki_salmon_aguacate.png	
+Temaki	Langostino	4.90	temaki_ebi.png	"gluten, mostaza, huevos, soja"
+Temaki	"Atún Rojo y Aguacate"	4.90	temaki_atun_aguacate.png	sésamo
+Temaki	Anguila	5.90	temaki_anguila.png	"mostaza, huevos, soja"
+Temaki	"Cangrejo y Aguacate"	3.90	temaki_cangrejo_aguacate.png	"huevos, soja, lácteos"
+Temaki	Vegetal	3.90	temaki_vegetal.png	
+Sashimi	Salmón	1.75	sashimi_atun.png	
+Sashimi	Salmón	1.75	sashimi_salmon.png	
+Otros	"Gyozas crujientes (pack 4)"	5.50	gyozas.png	"gluten, soja, sésamo"
+Otros	"Gyozas vegetales (pack 4)"	5.50	gyozas_verduras.png	"gluten, soja"
+Otros	Edamame	4.50	edamame.png	"gluten, soja"
+Otros	"5 piezas"	4.00	pollo.png	"gluten, huevos"
+Otros	"10 piezas"	7.00	pollo.png	"gluten, huevos"
+Otros	"Patatas fritas"	4.00	p_fritas.png	
+Otros	"Patatas bravas"	4.00	p_bravas.png	"gluten, frutos de cáscara"
+Otros	"Patatas deluxe"	4.00	p_deluxe.png	"gluten, huevos"
+Otros	Arroz	4.00	arroz.png	
+Bebida	"Agua Cabreiroá 500"	1.50	cabreiroa_500.png	
+Bebida	"Agua Cabreiroá 1500"	2.50	cabreiroa_1500.png	
+Bebida	"Coca Cola"	2.30	coke.png	
+Bebida	"Coca Cola Light"	2.30	coke_light.png	
+Bebida	"Coca Cola Zero"	2.30	coke_zero.png	
+Bebida	"Kas Naranja"	2.30	kas_naranja.png	
+Bebida	"Kas Limón"	2.30	kas_limon.png	
+Bebida	"Aquarius Naranja"	2.30	aquarius_naranja.png	
+Bebida	"Aquarius Limón"	2.30	aquarius_limon.png	
