@@ -23,13 +23,12 @@
             <th>Ofertas</th>
         </tr>
         <!-- ejemplo de fila "generada" -->
-         <!-- no son echos son printf -->
         <tr>
             <td><?php echo $nombre; ?></td>
-            <td><?php echo $precio; ?></td>
-            <td><?php echo $cantidad; ?> </td>
-            <td><?php echo $subtotal; ?></td>
-            <td><?php echo $ofertas; ?></td>
+            <td><?php printf("5.2%€", $precio); ?></td>
+            <td><?php printf("5.2%€", $cantidad); ?> </td>
+            <td><?php printf("5.2%€", $subtotal); ?></td>
+            <td><?php printf("5.2%€", $ofertas); ?></td>
         </tr>
     </table>
 </main>
